@@ -1,5 +1,5 @@
 # DorksDilemma
-Source code to 1985 Game for Commodore C16/+4
+Source code to 1985 Game for Commodore C16/+4 (Apologies for quality/language!)
 
 One of my desires is to recompile this with KickAssembler (http://theweb.dk/KickAssembler/Main.html#frontpage)
 
